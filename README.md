@@ -1,5 +1,5 @@
 # 💫 About Me:
-##🔭 I’m currently working on ReactJs<br>Web Development<br>I love Coding...
+## 🔭 I’m currently working on ReactJs<br>Web Development<br>I love Coding...
 
 
 ## 🌐 Socials:
